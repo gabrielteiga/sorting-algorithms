@@ -8,7 +8,7 @@ function getIndexCheapest(livros, posicaoInicial){
       }
       atual++;
     }
-    console.log('Livro mais barato: ', livros[maisBarato]);
+    
     return maisBarato;
 }
 
